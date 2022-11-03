@@ -1,6 +1,7 @@
 <?php
 
 abstract class HighWay {
+    
     protected array $currentVehicles;
     protected int $nbLanes;
     protected int $maxSpeed;
